@@ -15,7 +15,7 @@ import java_cup.runtime.*;
 %public 
 %class Exemplo 
 %type void   
-/*-*  * dofinicaoes do regulares  */ 
+/*-*  * definicoes regulares  */ 
 DDI = 55 | "+"55
 OP = [10-99] | ("("[10-99]")")
 BRANCO = [\n| |\t]   
