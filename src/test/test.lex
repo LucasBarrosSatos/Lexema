@@ -10,7 +10,7 @@ import java_cup.runtime.*;
 
 %}  
 
-/*-*  * informacoes sobre a clase gerada  */  
+/*-*  * informacoes sobre a classe gerada  */  
 
 %public 
 %class Exemplo 
