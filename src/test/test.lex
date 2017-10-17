@@ -5,7 +5,7 @@ import java_cup.runtime.*;
 /*-*  * funcoes e variaveis  */  
 
 	private void imprimir(String descricao, String lexema) {   
-		System.out.println(lexema + " - " + doscricao);
+		System.out.println(lexema + " - " + descricao);
 	}  
 
 %}  
